@@ -69,3 +69,9 @@ Perfect for headless Linux servers, Unraid, or users who prefer the terminal.
 
 ## 🎬 Step 3: Refresh Your Server
 Once the scraping is completely finished, go to your media server dashboard (Jellyfin, Plex, Emby) and select **"Scan All Libraries"** (Replace all metadata) so the server recognizes your newly downloaded theme songs!
+
+---
+
+##  Built with AI
+This project was developed using **Gemini** I am not a developer, but I needed a way to get automated theme songs in my Jellyfin server. This repository was created to fill that gap for myself and the community.
+
