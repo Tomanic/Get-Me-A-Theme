@@ -50,11 +50,11 @@ Perfect for standard desktop users. No coding or terminal required!
 Perfect for headless Linux servers, Unraid, or users who prefer the terminal. 
 *Prerequisite: You must have Python 3 installed on your system.*
 
-1. Download the `cli_scraper.py` script from this repository.
+1. Download the `Get_Me_A_Theme_CLI.py` script from this repository.
 2. Open it in a text editor (nano, vim, or Notepad) and update the `MEDIA_FOLDERS` list at the top.
    * **Example:** `MEDIA_FOLDERS = ["/mnt/user/movies", "/mnt/user/tv"]`
 3. Run the script:
-   *  `Get Me A Theme.py`
+   *  `Get_Me_A_Theme_CLI.py`
    
 4. The CLI will automatically download the required core engine for your OS and start scraping. It will prompt you in the terminal if it needs a manual YouTube link!
 
