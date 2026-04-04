@@ -1,0 +1,1 @@
+I am currently the sole maintainer of this project. If you have suggestions or find bugs, please open an Issue to discuss them. Direct changes to the code will only be accepted via Pull Request after my manual review and approval.
