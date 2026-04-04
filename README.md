@@ -1,6 +1,6 @@
 # Get Me A Theme 🎵
 
-![Project Banner](project_banner.png)
+![Project Banner](assets/project_banner.png)
 
 A fully automated, zero-maintenance tool that downloads high-quality theme songs for your local media libraries (Jellyfin, Plex, Emby, etc.). 
 
