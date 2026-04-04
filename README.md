@@ -61,7 +61,7 @@ Perfect for headless Linux servers, Unraid, or users who prefer the terminal.
 ---
 
 ## 🛡️ Security & False Positives
-"Get Me A Theme" is 100% open-source. You can verify the safety by reading `Get Me A Theme.py`.
+"Get Me A Theme" is 100% open-source. You can verify the safety by reading `Get Me A Theme GUI.py`.
 
 **Note:** Because this is an independent project, Windows might show a "SmartScreen" warning. Click **"More Info"** -> **"Run Anyway"**. Some minor AI-based Anti-Virus engines may flag the tool; this is a common **False Positive** for Python apps. All major engines (Microsoft, Kaspersky, etc.) recognize the app as safe.
 
