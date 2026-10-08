@@ -1,0 +1,1 @@
+{ "name": "nas-guard", "version": "0.1.0", "description": "Blocks destructive shell commands against NAS media and Docker unless they go to #recycle." }

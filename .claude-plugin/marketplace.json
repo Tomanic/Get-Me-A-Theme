@@ -1,0 +1,11 @@
+{
+  "name": "tomanic-mods",
+  "owner": { "name": "Tomanic" },
+  "plugins": [
+    { "name": "homelab-facts", "source": "./mods/homelab-facts", "description": "Homelab hosts, ports and usernames in every session's system prompt." },
+    { "name": "nas-guard", "source": "./mods/nas-guard", "description": "Blocks destructive shell commands against NAS media and Docker." },
+    { "name": "ha-guard", "source": "./mods/ha-guard", "description": "Home Assistant: read before writing automations, back up before deleting." },
+    { "name": "needs-you-band", "source": "./mods/needs-you-band", "description": "Band and toast when Claude is waiting on your answer." },
+    { "name": "cost-meter", "source": "./mods/cost-meter", "description": "Status line with session cost, context fill and rate limits." }
+  ]
+}

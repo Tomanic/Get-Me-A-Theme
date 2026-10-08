@@ -1,0 +1,1 @@
+{ "name": "ha-guard", "version": "0.1.0", "description": "Home Assistant safety: read before writing automations, back up before deleting." }

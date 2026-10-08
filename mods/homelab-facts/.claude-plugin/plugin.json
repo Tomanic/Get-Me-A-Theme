@@ -1,0 +1,1 @@
+{ "name": "homelab-facts", "version": "0.1.0", "description": "Adds Tom's homelab hosts, ports and usernames to every session's system prompt." }

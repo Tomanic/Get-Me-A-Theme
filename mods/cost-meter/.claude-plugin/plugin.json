@@ -1,0 +1,1 @@
+{ "name": "cost-meter", "version": "0.1.0", "description": "Status line with session cost, context fill and rate-limit use, plus warnings." }
