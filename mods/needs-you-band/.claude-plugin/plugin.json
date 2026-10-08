@@ -1,0 +1,1 @@
+{ "name": "needs-you-band", "version": "0.1.0", "description": "Shows a band and toast when Claude is waiting on an answer from you.", "types": "./types/index.d.ts" }
